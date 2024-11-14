@@ -4,15 +4,21 @@ Compilation of master-lists resources (a master-list of master-lists) that I fou
 Pick a tree and start picking.
 
 ## Red Team
-- https://github.com/rng70/Hacking-Resources
-- https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
-- [TJ_null list](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview)
-- https://book.hacktricks.xyz/
-- https://github.com/The-Art-of-Hacking/h4cker
+- [rng70's Hacking-Resources Master List](https://github.com/rng70/Hacking-Resources)
+- [Awesome-Red-Teaming Master List](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- [TJ_null list for OSCP labs](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview)
+- [HackTricks](https://book.hacktricks.xyz/)
+- [The-Art-of-Hacking Master List](https://github.com/The-Art-of-Hacking/h4cker)
 - [Ultimate-Hacker-Roadmap](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap)
-- https://github.com/Zeyad-Azima/Offensive-Resources
-- https://www.apisecuniversity.com/
-- https://github.com/0x4D31/awesome-oscp
+- [Zeyad-Azima Offensive Security Resources Master List](https://github.com/Zeyad-Azima/Offensive-Resources)
+- [APISecUniversity - Course](https://www.apisecuniversity.com/)
+- [0x4D31's Awesome-OSCP Master List](https://github.com/0x4D31/awesome-oscp)
+- [Strange's OSCP notes/Master List](https://strange-1.gitbook.io/notes)
+- [Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
+- [John Strand's Labs](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/navigation.md)
+
+### Open Source Tools
+- [My Personal List](./files/open-source-tools-red.md)
 
 ## Blue Team
 
@@ -24,4 +30,4 @@ Pick a tree and start picking.
 - https://github.com/tjnull/OSCP-Stuff/tree/master/Active-Directory
 
 ### Opensource Security tools
-- [My Personal List of Recommends](./files/open-source-tools-blue)
+- [My Personal List of Recommends](./files/open-source-tools-blue.md)
