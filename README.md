@@ -1,5 +1,5 @@
-# Cyber-resources-of-resources
-Compilation of master-lists of resources that I found pertaining to cybersecurity
+# The-Cyber-Security-Orchard-of-Resources
+Compilation of master-lists of resources that I found pertaining to cybersecurity. Pick and tree and start picking.
 
 ## Red Team
 - https://github.com/rng70/Hacking-Resources
