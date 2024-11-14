@@ -22,12 +22,16 @@ Pick a tree and start picking.
 
 ## Blue Team
 
-
 ### Cyber Ranges
-- [Ludus cyber range]https://ludus.cloud/
+- [Ludus cyber range](https://ludus.cloud/)
 - [TJ_null List](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview)
 - [GOAD](https://github.com/Orange-Cyberdefense/GOAD/tree/main)
 - https://github.com/tjnull/OSCP-Stuff/tree/master/Active-Directory
 
 ### Opensource Security tools
 - [My Personal List of Recommends](./files/open-source-tools-blue.md)
+
+## General Tech Not Directly related to Cybersecurity
+- [Awesome-Cheatsheets for programming](https://github.com/LeCoupa/awesome-cheatsheets)
+- [Developer Roadmaps](https://roadmap.sh/)
+
