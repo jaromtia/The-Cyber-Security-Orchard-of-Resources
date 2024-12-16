@@ -1,2 +1,7 @@
 - [Junior Detection Engineering](https://github.com/isherwood-sec/detection-engineering)
 - [Junior Penetration Testing](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
+- [Linux Privledge Escalation](https://github.com/Gr1mmie/Linux-Privilege-Escalation-Resources)
+- [Windows Privledge Escalation](https://github.com/Gr1mmie/Windows-Priviledge-Escalation-Resources)
+- [PEH web pentest lab](https://cdn.fs.teachablecdn.com/CbIyLkOuS4GUH7TNFTFg)
+- [Reverse Engineering Resource Link](https://drive.google.com/drive/folders/11-d9MfCbitiyt4OmT-oP-vSeR9viUuRn)
+- [Malware Anlysis Labs](https://github.com/HuskyHacks/PMAT-labs)
