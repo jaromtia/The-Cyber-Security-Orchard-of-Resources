@@ -5,3 +5,4 @@
 - [PEH web pentest lab](https://cdn.fs.teachablecdn.com/CbIyLkOuS4GUH7TNFTFg)
 - [Reverse Engineering Resource Link](https://drive.google.com/drive/folders/11-d9MfCbitiyt4OmT-oP-vSeR9viUuRn)
 - [Malware Anlysis Labs](https://github.com/HuskyHacks/PMAT-labs)
+- [SOC 101](https://github.com/MalwareCube/SOC101)
