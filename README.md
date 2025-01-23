@@ -19,7 +19,7 @@ Pick a tree and start picking.
 - [Vavkamil Awesome Bug Bounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 
 ### Red Team Open Source Tools
-- [My Personal List](./files/open-source-tools-red.md)
+- [Jarom-list](./files/open-source-tools-red.md)
 
 ## Blue Team
 
@@ -29,7 +29,7 @@ Pick a tree and start picking.
 - [GOAD](https://github.com/Orange-Cyberdefense/GOAD/tree/main)
 
 ### Blue Team Open source Tools
-- [My Personal List of Recommends](./files/open-source-tools-blue.md)
+- [Jarom-list](./files/open-source-tools-blue.md)
 
 ## General Tech Not Directly related to Cybersecurity
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)  for programming
