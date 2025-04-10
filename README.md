@@ -17,9 +17,12 @@ Pick a tree and start picking.
 - [Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
 - [John Strand's Labs](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/navigation.md)
 - [Vavkamil Awesome Bug Bounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
+- [Awesone-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
 
 ### Red Team Open Source Tools
 - [Jarom-list](./files/open-source-tools-red.md)
+- [Subdominator](https://github.com/RevoltSecurities/Subdominator)
+- [Ignitetechnologies Mindmap for tools and commands](https://github.com/Ignitetechnologies/Mindmap?tab=readme-ov-file)
 
 ## Blue Team
 
@@ -32,6 +35,15 @@ Pick a tree and start picking.
 - [Jarom-list](./files/open-source-tools-blue.md)
 - [Home-labbing by reswob10](https://github.com/reswob10/HomeLabResources)
 ## General Tech Not Directly related to Cybersecurity
+### Programming
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)  for programming
 - [Developer Roadmaps](https://roadmap.sh/)
+- [Tiny Python Projects](https://github.com/kyclark/tiny_python_projects)
+- [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
+- [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
+- [30 Seconds of code](https://www.30secondsofcode.org/)
+- [WeMakeDevs roadmaps](https://github.com/WeMakeDevs/roadmaps?tab=readme-ov-file)
+
+### Resources for both red and blue
+- [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks?tab=readme-ov-file)
 
