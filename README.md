@@ -46,4 +46,5 @@ Pick a tree and start picking.
 
 ### Resources for both red and blue
 - [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks?tab=readme-ov-file)
+- [Awesome Cyber Security Universisty](https://github.com/brootware/awesome-cyber-security-university)
 
