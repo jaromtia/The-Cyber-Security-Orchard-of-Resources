@@ -31,10 +31,11 @@ Pick a tree and start picking.
 - [TJ_null List](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview)
 - [GOAD](https://github.com/Orange-Cyberdefense/GOAD/tree/main)
 
-### Blue Team Open source Tools
+### Blue Team Open-source Tools
 - [Jarom-list](./files/open-source-tools-blue.md)
 - [Home-labbing by reswob10](https://github.com/reswob10/HomeLabResources)
-## General Tech Not Directly related to Cybersecurity
+- [Security Hardening](https://github.com/decalage2/awesome-security-hardening?tab=readme-ov-file#security-hardening-guides-and-best-practices)
+## General Tech Not Directly Related to Cybersecurity
 ### Programming
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)  for programming
 - [Developer Roadmaps](https://roadmap.sh/)
