@@ -23,6 +23,7 @@ Pick a tree and start picking.
 - [Jarom-list](./files/open-source-tools-red.md)
 - [Subdominator](https://github.com/RevoltSecurities/Subdominator)
 - [Ignitetechnologies Mindmap for tools and commands](https://github.com/Ignitetechnologies/Mindmap?tab=readme-ov-file)
+- [DFIR Tool List](https://github.com/cugu/awesome-forensics?tab=readme-ov-file)
 
 ## Blue Team
 
