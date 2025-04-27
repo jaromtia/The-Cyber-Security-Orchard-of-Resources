@@ -36,6 +36,7 @@ Pick a tree and start picking.
 - [Jarom-list](./files/open-source-tools-blue.md)
 - [Home-labbing by reswob10](https://github.com/reswob10/HomeLabResources)
 - [Security Hardening](https://github.com/decalage2/awesome-security-hardening?tab=readme-ov-file#security-hardening-guides-and-best-practices)
+- [Malware Analysis](https://github.com/kh4sh3i/Malware-Analysis)
 ## General Tech Not Directly Related to Cybersecurity
 ### Programming
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)  for programming
