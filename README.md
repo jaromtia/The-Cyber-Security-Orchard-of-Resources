@@ -39,6 +39,7 @@ Pick a tree and start picking.
 - [Malware Analysis](https://github.com/kh4sh3i/Malware-Analysis)
 - [Incident Response and Forensics](https://github.com/meirwah/awesome-incident-response)
 - [DFIR Tool List](https://github.com/cugu/awesome-forensics?tab=readme-ov-file)
+- [OSINT4All](https://start.me/p/L1rEYQ/osint4all)
 ## General Tech Not Directly Related to Cybersecurity
 ### Programming
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)  for programming
