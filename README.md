@@ -40,7 +40,7 @@ Pick a tree and start picking.
 - [Incident Response and Forensics](https://github.com/meirwah/awesome-incident-response)
 - [DFIR Tool List](https://github.com/cugu/awesome-forensics?tab=readme-ov-file)
 - [OSINT4All](https://start.me/p/L1rEYQ/osint4all)
-## General Tech Not Directly Related to Cybersecurity
+## General Tech
 ### Programming
 - [Awesome-Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)  for programming
 - [Developer Roadmaps](https://roadmap.sh/)
