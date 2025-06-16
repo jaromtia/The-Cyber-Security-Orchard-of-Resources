@@ -18,6 +18,7 @@ Pick a tree and start picking.
 - [John Strand's Labs](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/navigation.md)
 - [Vavkamil Awesome Bug Bounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 - [Awesone-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
+- [Awesome-Blackhat-Tools](https://github.com/UCYBERS/Awesome-Blackhat-Tools/blob/master/tools/regions/USA/2025/README.md)
 
 ### Red Team Open Source Tools
 - [Jarom-list](./files/open-source-tools-red.md)
