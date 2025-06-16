@@ -1,4 +1,4 @@
-f# The-Cyber-Security-Orchard-of-Resources
+# The Cyber Security Orchard of resources
 Compilation of master-lists resources (a master-list of master-lists) that I found pertaining to cybersecurity. Some are trees (masterlists) some are just branches (actual resources themselves).
 
 Pick a tree and start picking.
